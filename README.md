@@ -37,7 +37,8 @@
 
 ## Deployment
 
-Deploy your SaifKhanAI Telegram Bot effortlessly on [Render](https://render.com). Just follow these steps:
+Deploy your SaifKhanAI Telegram Bot effortlessly on [Render](https://render.com).
+Just follow these steps:
 
 1. Clone this repository: `git clone https://github.com/DarkHat28/SaifKhanAI_TGbot.git`
 2. Set up environment variables (`TELEGRAM_TOKEN` and `OPENAI_API_KEY`) on Render.
