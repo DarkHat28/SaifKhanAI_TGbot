@@ -65,6 +65,14 @@ Contributions are welcome! If you'd like to contribute:
 
 ---
 
+## Contact
+
+Have questions or need assistance? Feel free to reach out to me:
+
+- Telegram: [@Saitama_AU](https://t.me/Saitama_AU)
+
+---
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
