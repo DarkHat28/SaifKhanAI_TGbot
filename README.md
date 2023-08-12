@@ -1,7 +1,9 @@
 <h1 align="center">
+  🤖🤖🤖
+</h1>
+<h1 align="center">
   SaifKhanAI Telegram Bot
 </h1>
-
 <p align="center">
   <strong>Engage, Learn, and Laugh with Your AI-powered Telegram Companion</strong>
 </p>
