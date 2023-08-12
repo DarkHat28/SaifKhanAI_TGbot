@@ -75,4 +75,4 @@ Have questions or need assistance? Feel free to reach out to me:
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](main/LICENCE).
