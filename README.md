@@ -75,4 +75,4 @@ Have questions or need assistance? Feel free to reach out to me:
 
 ## License
 
-This project is licensed under the [MIT License](SaifKhanAI_TGbot/LICENCE).
+This project is licensed under the [MIT License](https://github.com/DarkHat28/SaifKhanAI_TGbot/blob/main/LICENCE).
